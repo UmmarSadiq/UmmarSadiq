@@ -5,7 +5,7 @@
 
                                               
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
-- Previously worked with <img width="64" height="64" alt="icons8-airtel-64" src="https://github.com/user-attachments/assets/eae88548-52e8-4685-8592-e5f57247ba4a" />
+- Previously worked with <img width="48" height="48" alt="icons8-airtel-64" src="https://github.com/user-attachments/assets/eae88548-52e8-4685-8592-e5f57247ba4a" />
 
 - ⚡ Fun fact: .
 - Social Presence
