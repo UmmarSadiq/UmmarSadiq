@@ -2,7 +2,9 @@
 
 Software Engineer @ Zoho Corporation
 
-![photo_6213256104972586187_y (1)](https://github.com/user-attachments/assets/e2573cf6-7715-4858-b99f-d87a908ba826)
+<img align="right" width="370" height="290"![photo_6213256104972586187_y (1)](https://github.com/user-attachments/assets/5bb59a62-82cd-41c2-9056-849e106bb234)>
+
+
 
 
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
