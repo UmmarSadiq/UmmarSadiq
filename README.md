@@ -2,7 +2,7 @@
 
 Software Engineer @ Zoho Corporation
 
-<img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/5bb59a62-82cd-41c2-9056-849e106bb234" />
+<img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/e98093f3-01b5-4a49-a307-51d8c6a0aeb6" />
 
 
 
