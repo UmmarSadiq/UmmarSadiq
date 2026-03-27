@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Uploading image.png…]()
+blob:https://web.telegram.org/37c91f6d-e4b1-4ab8-865b-20f6d23a34ca
 
 
 - 🔭 I’m currently working on ...
